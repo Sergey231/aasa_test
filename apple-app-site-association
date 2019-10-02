@@ -4,10 +4,7 @@
         "details": [
             {
                 "appID": "8Z8V4SPM6B.ru.skbbank.mobile",
-                "paths": [
-                    "/*",
-                    "/hub/1"
-                ]
+                "paths": ["/*"]
             }
         ]
     }
