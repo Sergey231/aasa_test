@@ -3,11 +3,11 @@
         "apps": [],
         "details": [{
             "appID": "LJD55T3BAG.ru.skbbank.mobile",
-            "paths": ["/hub/ios_dev/*"]
+            "paths": ["/*"]
             },
             {
             "appID": "LJD55T3BAG.ru.skbbank.mobile",
-            "paths": ["/hub/swift/*"]
+            "paths": ["/hub/1"]
         }]
     }
 }
