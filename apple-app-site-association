@@ -1,13 +1,14 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
-            "appID": "LJD55T3BAG.ru.skbbank.mobile",
-            "paths": ["/*"]
-            },
+        "details": [
             {
-            "appID": "LJD55T3BAG.ru.skbbank.mobile",
-            "paths": ["/hub/1"]
-        }]
+                "appID": "LJD55T3BAG.ru.skbbank.mobile",
+                "paths": [
+                    "/*",
+                    "/hub/1"
+                ]
+            }
+        ]
     }
 }
