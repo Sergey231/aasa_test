@@ -4,14 +4,10 @@
         "details": [
             {
                 "appID": "8Z8V4SPM6B.ru.skbbank.mobile",
-                "paths": ["/delo/1"]
+                "paths": ["/*"]
             },
             {
                 "appID": "8Z8V4SPM6B.ru.skbbank.ib",
-                "paths": ["/skb/2"]
-            },
-            {
-                "appID": "8Z8V4SPM6B.ru.gebank.ib",
                 "paths": ["/*"]
             }
         ]
