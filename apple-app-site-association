@@ -11,7 +11,7 @@
                     }
                 ],
                 // pre iOS14
-                "paths": ["/deeplink"]
+                "paths": ["deeplink"]
             }
         ]
     }
