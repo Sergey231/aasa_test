@@ -6,12 +6,12 @@
                 "appID": "RBL82W4224.ru.belkacar",
                 "components": [ // iOS14
                     {
-                        "/": "<URL_PATH>",
+                        "/": "deeplink",
                         "comment": "Matches any URL whose path starts with URL_PATH and instructs the system not to open it as a universal link"
                     }
                 ],
                 // pre iOS14
-                "paths": ["/*"]
+                "paths": ["/deeplink"]
             }
         ]
     }
